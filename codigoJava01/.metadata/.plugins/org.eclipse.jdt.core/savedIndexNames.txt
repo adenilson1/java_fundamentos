@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/ad-linux/eclipse_java/codigoJava01/.metadata/.plugins/org.eclipse.jdt.core
+3875360691.index
+900586112.index
+1865797976.index
